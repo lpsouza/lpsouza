@@ -3,15 +3,14 @@
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-luizsouza.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luizsouza.com)
-[![Email](https://img.shields.io/badge/Email-lpsouza@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpsouza@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/lpsouza?style=for-the-badge&logo=github)](https://github.com/lpsouza)
 
 </div>
 
 ## 🚀 About Me
 
-🔐 **DevSecOps | SRE Advocate | Technical Instructor** 
-📍 Rio Grande do Sul, Brazil
+🔐 **DevSecOps | SRE Advocate | Technical Instructor**  
+📍 Rio Grande do Sul, Brazil  
 💼 Passionate about reliability engineering, automation, security, and sharing knowledge
 
 I'm a seasoned developer with **13+ years on GitHub**, specializing in building secure, reliable, and scalable infrastructure. As an SRE Advocate and Technical Instructor, I'm dedicated to spreading best practices in DevSecOps, teaching automation techniques, and creating tools that empower development teams.
@@ -27,12 +26,6 @@ I'm a seasoned developer with **13+ years on GitHub**, specializing in building 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### DevSecOps & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -65,6 +58,19 @@ Ansible playbooks for automated software installation and configuration on Linux
 Docker image for exposing local services to the internet using Cloudflare as a reverse proxy  
 ⭐ 1 star | Shell
 
+## 💻 Languages I Work With
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,19 +78,6 @@ Docker image for exposing local services to the internet using Cloudflare as a r
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lpsouza&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
 </div>
-
-### 💻 Languages I Work With
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## 💡 What I'm Working On
 
@@ -99,7 +92,6 @@ Docker image for exposing local services to the internet using Cloudflare as a r
 I'm always open to interesting conversations, collaboration opportunities, and teaching engagements. Feel free to reach out!
 
 - 🌐 Visit my website: [luizsouza.com](https://luizsouza.com)
-- 📧 Email me: [lpsouza@gmail.com](mailto:lpsouza@gmail.com)
 - 💼 Check out my repositories below ⬇️
 
 ---
