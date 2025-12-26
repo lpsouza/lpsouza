@@ -67,8 +67,6 @@ Docker image for exposing local services to the internet using Cloudflare as a r
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lpsouza&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lpsouza&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lpsouza&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
