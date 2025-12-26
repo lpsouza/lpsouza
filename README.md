@@ -1,16 +1,98 @@
-### Hi there 👋
+# 👋 Hi there, I'm Luiz Souza!
 
-<!--
-**lpsouza/lpsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-luizsouza.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luizsouza.com)
+[![Email](https://img.shields.io/badge/Email-lpsouza@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpsouza@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/lpsouza?style=for-the-badge&logo=github)](https://github.com/lpsouza)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🔐 **DevSecOps | SRE Advocate | Technical Instructor** 
+📍 Rio Grande do Sul, Brazil
+💼 Passionate about reliability engineering, automation, security, and sharing knowledge
+
+I'm a seasoned developer with **13+ years on GitHub**, specializing in building secure, reliable, and scalable infrastructure. As an SRE Advocate and Technical Instructor, I'm dedicated to spreading best practices in DevSecOps, teaching automation techniques, and creating tools that empower development teams.
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### DevSecOps & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+## 🌟 Featured Projects
+
+### 🔍 [hyperv_exporter](https://github.com/lpsouza/hyperv_exporter)
+Prometheus exporter for Hyper-V Server - Monitor your virtualization infrastructure with ease  
+⭐ 3 stars | C#
+
+### 🏗️ [terraform-examples](https://github.com/lpsouza/terraform-examples)
+A comprehensive collection of Terraform examples and best practices  
+⭐ 2 stars | HCL
+
+### 🔐 [k8s-create-user](https://github.com/lpsouza/k8s-create-user)
+Automated script for creating users in Kubernetes and managing group assignments  
+⭐ 2 stars | Shell
+
+### 🚀 [api-express-boilerplate](https://github.com/lpsouza/api-express-boilerplate)
+Production-ready boilerplate for building APIs with Node.js, Express, TypeScript, and Swagger  
+TypeScript
+
+### ⚙️ [linux-installer](https://github.com/lpsouza/linux-installer)
+Ansible playbooks for automated software installation and configuration on Linux systems  
+⭐ 1 star | Shell
+
+### ☁️ [cloudflared](https://github.com/lpsouza/cloudflared)
+Docker image for exposing local services to the internet using Cloudflare as a reverse proxy  
+⭐ 1 star | Shell
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpsouza&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpsouza&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+</div>
+
+## 💡 What I'm Working On
+
+- 🎓 Teaching DevSecOps and SRE best practices
+- 🔧 Building reliable infrastructure automation tools
+- 🌐 Advocating for Site Reliability Engineering principles
+- 📚 Sharing knowledge through open-source projects and technical content
+- 🎯 Helping teams integrate security and observability into their workflows
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations, collaboration opportunities, and teaching engagements. Feel free to reach out!
+
+- 🌐 Visit my website: [luizsouza.com](https://luizsouza.com)
+- 📧 Email me: [lpsouza@gmail.com](mailto:lpsouza@gmail.com)
+- 💼 Check out my repositories below ⬇️
+
+---
+
+<div align="center">
+  
+*"Hope is not a strategy." - SRE Principle*
+
+![Profile Views](https://komarev.com/ghpvc/?username=lpsouza&color=blue&style=flat-square)
+
+</div>
