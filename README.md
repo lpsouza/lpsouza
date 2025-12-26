@@ -67,9 +67,20 @@ Docker image for exposing local services to the internet using Cloudflare as a r
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lpsouza&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lpsouza&theme=dark&hide_border=true&layout=compact&hide=scss,html,dockerfile,css&langs_count=10&card_width=445)
-
 </div>
+
+### 💻 Languages I Work With
+
+![JavaScript](https://img.shields.io/badge/JavaScript-8_repos-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-7_repos-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6_repos-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4_repos-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-3_repos-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2_repos-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1_repo-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1_repo-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1_repo-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-1_repo-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## 💡 What I'm Working On
 
