@@ -44,32 +44,6 @@ I'm a seasoned developer with **13+ years on GitHub**, specializing in building 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## 🌟 Featured Projects
-
-### 🔍 [hyperv_exporter](https://github.com/lpsouza/hyperv_exporter)
-Prometheus exporter for Hyper-V Server - Monitor your virtualization infrastructure with ease  
-⭐ 3 stars | C#
-
-### 🏗️ [terraform-examples](https://github.com/lpsouza/terraform-examples)
-A comprehensive collection of Terraform examples and best practices  
-⭐ 2 stars | HCL
-
-### 🔐 [k8s-create-user](https://github.com/lpsouza/k8s-create-user)
-Automated script for creating users in Kubernetes and managing group assignments  
-⭐ 2 stars | Shell
-
-### 🚀 [api-express-boilerplate](https://github.com/lpsouza/api-express-boilerplate)
-Production-ready boilerplate for building APIs with Node.js, Express, TypeScript, and Swagger  
-TypeScript
-
-### ⚙️ [linux-installer](https://github.com/lpsouza/linux-installer)
-Ansible playbooks for automated software installation and configuration on Linux systems  
-⭐ 1 star | Shell
-
-### ☁️ [cloudflared](https://github.com/lpsouza/cloudflared)
-Docker image for exposing local services to the internet using Cloudflare as a reverse proxy  
-⭐ 1 star | Shell
-
 ## 📊 GitHub Stats
 
 <div align="center">
